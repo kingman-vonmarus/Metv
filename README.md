@@ -221,4 +221,4 @@ METV is offered as a complete free version with all features and updates include
 Unlock the full potential of your Kodi experience with METV—download it now and dive into a world of free entertainment!
 
 ---
-**Last updated:** 2026-09-24 21:56:36 UTC
+**Last updated:** 2026-09-25 00:19:07 UTC
